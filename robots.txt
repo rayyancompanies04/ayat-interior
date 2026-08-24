@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ayatinterior.com/sitemap.xml
+Sitemap: https://www.ayatinterior.com/sitemap.xml
