@@ -22,7 +22,7 @@
 
   --gold-deep: #8a6a24;
   --gold: #c6a04f;
-  --gold-light: #eddca0;
+  --gold-light: #c6a04f;
   --gold-line: rgba(198,160,79,0.28);
 
   --gold-grad: linear-gradient(115deg, var(--gold-deep) 0%, var(--gold) 35%, var(--gold-light) 52%, var(--gold) 70%, var(--gold-deep) 100%);
