@@ -1,0 +1,16 @@
+{
+  "name": "AYAT Interior",
+  "short_name": "AYAT Interior",
+  "description": "Interior design, Wallpapers and turnkey contracting studio in Mumbai, India.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0b",
+  "theme_color": "#0a0a0b",
+  "lang": "en-IN",
+  "icons": [
+    { "src": "/images/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/images/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/images/maskable-icon-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
