@@ -393,7 +393,7 @@ p{ line-height:1.75; color: var(--ink-soft); font-weight:400; }
   color: rgba(250,248,243,0.82);
   border-bottom: 1px solid transparent;
 }
-.main-nav a.nav-link:hover, .main-nav li.active > a.nav-link{ color: var(--gold-light); }
+.main-nav a.nav-link:hover, .main-nav li.active > a.nav-link{ color: var(--gold); }
 .has-dropdown{ position:relative; }
 .has-dropdown .nav-link svg{ transition: transform .3s ease; }
 .has-dropdown:hover .nav-link svg, .has-dropdown.open .nav-link svg{ transform: rotate(180deg); }
